@@ -1,7 +1,7 @@
 angularjs-introduction
 ======================
 
-Slides and demo from presentation @ Woorank
+Demo from presentation @ Woorank
 
 ##usage
 
@@ -16,5 +16,6 @@ Slides and demo from presentation @ Woorank
 
 ##useful links:
     
- * [presentation](https://docs.google.com/a/woorank.com/presentation/d/1zkpH9x2aXVE7mcYK7XiCW21qS7K3bmqg7Mn1JxkTQO4/edit?usp=sharing)
+ * [angularjs](http://angularjs.org/)
+ * [slides](https://docs.google.com/a/woorank.com/presentation/d/1zkpH9x2aXVE7mcYK7XiCW21qS7K3bmqg7Mn1JxkTQO4/edit?usp=sharing)
  * [egghead.io](http://egghead.io/)
