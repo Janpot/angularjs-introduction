@@ -1,0 +1,20 @@
+<!doctype html>
+<html ng-app="myApp">
+    <head>
+        <title>Demo 4</title>
+    </head>
+    <body ng-controller="MyController">
+        <span>{{items.length}} items</span>
+        <ul>
+            <li ng-repeat="item in items">
+                <span>{{item}}</span>
+                <button ng-click="removeItem($index)">Remove</button>
+            </li>
+        </ul>
+        <input ng-model="newItem">
+        <button ng-click="addItem(newItem)">Add</button>
+        
+        <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
+        <script src="index.js"></script>
+    </body>
+</html>
